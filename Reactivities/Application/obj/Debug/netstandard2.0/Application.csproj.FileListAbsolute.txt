@@ -1,0 +1,14 @@
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Application.deps.json
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Application.dll
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Application.pdb
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Domain.dll
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.dll
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Domain.pdb
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.dll
+/home/martin/ReactProjects/ReactNetSocial/Reactivities/Application/obj/Debug/netstandard2.0/Application.pdb
